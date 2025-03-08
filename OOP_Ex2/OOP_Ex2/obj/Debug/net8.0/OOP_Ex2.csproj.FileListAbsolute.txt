@@ -1,0 +1,14 @@
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\bin\Debug\net8.0\OOP_Ex2.exe
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\bin\Debug\net8.0\OOP_Ex2.deps.json
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\bin\Debug\net8.0\OOP_Ex2.runtimeconfig.json
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\bin\Debug\net8.0\OOP_Ex2.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\bin\Debug\net8.0\OOP_Ex2.pdb
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\refint\OOP_Ex2.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.pdb
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\OOP_Ex2.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOP_Ex2\OOP_Ex2\obj\Debug\net8.0\ref\OOP_Ex2.dll

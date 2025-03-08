@@ -1,0 +1,14 @@
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\bin\Debug\net8.0\ClassExerciseUdemCourse.exe
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\bin\Debug\net8.0\ClassExerciseUdemCourse.deps.json
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\bin\Debug\net8.0\ClassExerciseUdemCourse.runtimeconfig.json
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\bin\Debug\net8.0\ClassExerciseUdemCourse.dll
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\bin\Debug\net8.0\ClassExerciseUdemCourse.pdb
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.dll
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\refint\ClassExerciseUdemCourse.dll
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.pdb
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ClassExerciseUdemCourse.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\ClassExerciseUdemCourse\ClassExerciseUdemCourse\obj\Debug\net8.0\ref\ClassExerciseUdemCourse.dll

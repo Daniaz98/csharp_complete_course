@@ -1,0 +1,28 @@
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.exe
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.deps.json
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.runtimeconfig.json
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.dll
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.pdb
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.dll
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\refint\OOPEx.dll
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.pdb
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\OOPEx\OOPEx\obj\Debug\net8.0\ref\OOPEx.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.exe
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.deps.json
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.runtimeconfig.json
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\bin\Debug\net8.0\OOPEx.pdb
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\refint\OOPEx.dll
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.pdb
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\OOPEx.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\Complete C# Course\OOPEx\OOPEx\obj\Debug\net8.0\ref\OOPEx.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\bin\Debug\net8.0\VectorExc.exe
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\bin\Debug\net8.0\VectorExc.deps.json
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\bin\Debug\net8.0\VectorExc.runtimeconfig.json
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\bin\Debug\net8.0\VectorExc.dll
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\bin\Debug\net8.0\VectorExc.pdb
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.dll
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\refint\VectorExc.dll
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.pdb
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\VectorExc.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\VectorExc\VectorExc\obj\Debug\net8.0\ref\VectorExc.dll

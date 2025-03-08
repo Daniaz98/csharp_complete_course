@@ -1,0 +1,14 @@
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\bin\Debug\net8.0\ExercicioCursoVect.exe
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\bin\Debug\net8.0\ExercicioCursoVect.deps.json
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\bin\Debug\net8.0\ExercicioCursoVect.runtimeconfig.json
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\bin\Debug\net8.0\ExercicioCursoVect.dll
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\bin\Debug\net8.0\ExercicioCursoVect.pdb
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.dll
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\refint\ExercicioCursoVect.dll
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.pdb
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ExercicioCursoVect.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\ExercicioCursoVect\ExercicioCursoVect\obj\Debug\net8.0\ref\ExercicioCursoVect.dll
